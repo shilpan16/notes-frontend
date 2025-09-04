@@ -36,7 +36,7 @@ Try the app here:
    ```bash
    git clone https://github.com/shilpan16/notes-frontend.git
    cd notes-frontend
-````
+   ```
 
 2. Install dependencies:
 
