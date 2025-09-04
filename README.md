@@ -2,10 +2,15 @@
 
 A simple and intuitive Notes application built with React, allowing users to create, edit, delete, and share notes seamlessly.
 
-## Live Demo
 
-Try the app here:  
-🔗 [https://notes-frontend-navy-pi.vercel.app/notes](https://notes-frontend-navy-pi.vercel.app/notes)
+## Live Demo & Deployment
+
+- **Live App**: Try the Notes App here:  
+  🔗 [https://notes-frontend-navy-pi.vercel.app/notes](https://notes-frontend-navy-pi.vercel.app/notes)
+
+- **Vercel Project Dashboard**: View deployment details here:  
+  🔗 [https://vercel.com/shilpa-nerallas-projects/notes-frontend](https://vercel.com/shilpa-nerallas-projects/notes-frontend)
+
 
 ## Features
 
