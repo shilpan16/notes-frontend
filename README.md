@@ -1,5 +1,3 @@
-
-````markdown
 # Notes App
 
 A simple and intuitive Notes application built with React, allowing users to create, edit, delete, and share notes seamlessly.
@@ -68,4 +66,3 @@ Contributions are welcome! Please fork the repository, create a branch, and subm
 
 This project is licensed under the MIT License.
 
-```
